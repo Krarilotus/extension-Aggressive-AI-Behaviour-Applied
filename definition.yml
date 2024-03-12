@@ -1,0 +1,8 @@
+name: Aggressive-AI-Behaviour-Applied
+display-name: "Aggressive AI Behaviour Applied"
+author: Krarilotus
+version: 1.4.0
+dependencies:
+  Aggressive-AI-Behaviour: ^1.4.0
+  framework: ^3.0.0
+  frontend: ^1.0.0

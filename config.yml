@@ -1,0 +1,432 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: Aggressive Rat
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Rat/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              snake:
+                - name: Aggressive Snake
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Snake/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: Aggressive Pig
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Pig/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wolf:
+                - name: Aggressive Wolf
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wolf/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              saladin:
+                - name: Aggressive Saladin
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Saladin/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: Aggressive Caliph
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Caliph/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: Aggressive Sultan
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sultan/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              richard:
+                - name: Aggressive Richard
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Richard/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: Aggressive Frederick
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Frederick/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: Aggressive Phillip
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Phillip/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: Aggressive Nizar
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Nizar/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: Aggressive Sheriff
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sheriff/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: Aggressive Marshal
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Marshal/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: Aggressive-Abbot
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Abbot/
+                  control:
+                    aic: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          rat:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Rat
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Rat/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Rat
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Rat/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Rat
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Rat/
+                  active: true
+          snake:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Snake
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Snake
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Snake/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Snake
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Snake/
+                  active: true
+          pig:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Pig
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Pig/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Pig
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Pig/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Pig
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Pig/
+                  active: true
+          wolf:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Wolf
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Wolf
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Wolf
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wolf/
+                  active: true
+          saladin:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Saladin
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Saladin
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Saladin
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Saladin/
+                  active: true
+          caliph:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Caliph
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Caliph
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Caliph
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Caliph/
+                  active: true
+          sultan:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Sultan
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sultan/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Sultan
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sultan/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Sultan
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sultan/
+                  active: true
+          richard:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Richard
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Richard/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Richard
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Richard/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Richard
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Richard/
+                  active: true
+          frederick:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Frederick
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Frederick
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Frederick
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Frederick/
+                  active: true
+          phillip:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Phillip
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Phillip
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Phillip
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Phillip/
+                  active: true
+          wazir:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+          emir:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Wazir
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Wazir/
+                  active: true
+          nizar:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Nizar
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Nizar
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Nizar
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Nizar/
+                  active: true
+          sheriff:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Sheriff
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Sheriff
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Sheriff
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Sheriff/
+                  active: true
+          marshal:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive Marshal
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Marshal/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive Marshal
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Marshal/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive Marshal
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Marshal/
+                  active: true
+          abbot:
+            aic:
+              contents:
+                suggested-value:
+                  name: Aggressive-Abbot
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Aggressive-Abbot
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Aggressive-Abbot
+                  root: ucp/plugins/Aggressive-AI-Behaviour/resources/ai/Abbot/
+                  active: true
+  plugins:
+    Aggressive-AI-Behaviour:
+      config: {}
+meta:
+  version: 1.0.0
